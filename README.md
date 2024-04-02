@@ -1,1 +1,1 @@
-Live Link - https://vedanshi03.github.io/Weather-App/
+Live Link - https://accuweatherapp-react.netlify.app/
